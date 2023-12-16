@@ -1,4 +1,4 @@
-#CPU
+# CPU
 
 watchface for Watchy (SQFMI) - CPU
 
